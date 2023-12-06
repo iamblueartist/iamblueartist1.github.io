@@ -1,0 +1,17 @@
+body {
+    background-color: powderblue;
+    }
+    h1 {
+    color: blue;
+    text-align: center;
+    }
+    h1:hover {
+    background-color: lightseagreen;
+    }
+    p {
+    background-color: pink;
+    }
+    img{
+    padding-left: 25%;
+    }
+    

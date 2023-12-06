@@ -1,0 +1,17 @@
+body {
+    background-color: rgb(140, 185, 160);
+    }
+    h1 {
+    color: rgb(7, 57, 23);
+    }
+    h1:hover {
+    background-color: rgb(117, 179, 176);
+    }
+    p {
+    color: rgb(40, 29, 110);
+    }
+    .box img {
+    width: 100%;
+    height: 100%;
+    }
+    

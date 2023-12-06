@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-image: url("background.jpeg");
+color: darkblue; 
+
+}
+
+h2 {
+text-align: center;
+
+}
+
+body{  
+    font-style: italic;  
+    font-variant: normal;  
+    font-weight: bolder;  
+    font-size: 25px;  
+    font-family: garamond, cursive;  
+    }  
+
+p.ex3 {
+    text-decoration-line: underline;
+    text-decoration-color: red;
+    text-decoration-style: wavy;
+  }

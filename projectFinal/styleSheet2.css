@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: brown;
+}
+
+h2{
+    text-decoration-line: line-through;
+    text-align: center;
+  }
+
+  h1 {
+    text-align: center;
+  }
+  

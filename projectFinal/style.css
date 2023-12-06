@@ -1,0 +1,78 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    }
+
+
+    h1{
+        color: aliceblue;
+        text-align: center;
+        z-index: 1;
+        margin-top: 10%;
+              }
+        
+        
+              h1:hover {
+        background-color: #0f1036;
+        
+              }
+
+    body {
+        height: 1000px;
+        background: linear-gradient(141deg, #5b5cb3 0%, #0e1f6d 51%, #0f1036 75%);
+      }
+
+
+     .overlay {
+
+         top: 40%;
+         left: 20%;
+        opacity: .75;
+    
+        
+          }
+
+
+ .image-one  {
+
+
+    position: absolute;
+   top: 40%;
+   left: 20%;
+    z-index: 1;
+
+
+
+ }
+        
+  .wrapper {
+    width: 400px;
+    height: 400px;
+    position: absolute;
+    left: 0%;
+    top:10%;
+    }
+
+.img {
+
+
+/* object-fit: cover; */
+z-index: -1
+}
+
+.container { 
+
+   color: aliceblue;
+    top: 50%;
+    left: 50%;
+   z-index: 2;
+   position: absolute;
+
+}
+
+a {
+    color: rgb(243, 167, 196); /* Link color */
+    text-decoration: none; /* Remove underline */
+    font-weight: bold; /* Make the text bold */
+  }

@@ -1,0 +1,63 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    }
+body{
+
+background-color: black;
+
+}
+
+h1{
+    color: aliceblue;
+    text-align: center;
+    z-index: 1;
+    margin-top: 0%;
+          }
+    
+    
+          /* h1:hover {
+    background-color: #fd293b79;
+    
+          } */
+
+
+.container {
+
+       
+    object-fit: scale-down;
+    margin-top: 10%;
+    margin-left: 0%;
+ width: 100px;
+ height: 50px;
+    
+  }
+
+
+  .light-text{
+
+    color: rgb(148, 193, 231);
+  }
+  
+  .overlay {
+    position: absolute;
+    top: 60%;
+    left: 60%;
+   opacity: .5;
+
+   
+     }
+
+     /* time? */
+
+     body {
+      text-align: center;
+      margin: 50px;
+    }
+
+    #countdown {
+      font-size: 24px;
+      color: #525050;
+    }
